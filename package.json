@@ -1,0 +1,19 @@
+{
+  "name": "@uber5001/full-application-proxy",
+  "version": "0.0.1",
+  "description": "call a function (which returns a function) via proxy, using property accesses as parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uber5001/full-application-proxy.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/uber5001/full-application-proxy/issues"
+  },
+  "homepage": "https://github.com/uber5001/full-application-proxy#readme"
+}
